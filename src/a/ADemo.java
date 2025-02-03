@@ -13,6 +13,11 @@ public class ADemo {
 		System.out.println(a-b);
 		
 	}
+	
+	public void divid(int a , int b) {
+		System.out.println(a/b);
+		
+	}
 
 	/**
 		TEst
