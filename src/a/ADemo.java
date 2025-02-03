@@ -44,7 +44,8 @@ public class ADemo {
 			System.out.println("Not Equals");
 		
 	
-	}
+	int id = 123;
+	String city = "Albuquerque";
 	
 	
 	
