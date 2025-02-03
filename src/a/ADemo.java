@@ -36,6 +36,18 @@ public class ADemo {
 	String country="";
 	
 
+	public static void isNumEqual(int n1, int n2) {
+		
+		if (n1 == n2) {
+			System.out.println("Equals");
+		}else
+			System.out.println("Not Equals");
+		
+	
+	}
+	
+	
+	
 	/**
 		TEst
   TEST 
