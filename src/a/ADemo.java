@@ -18,6 +18,11 @@ public class ADemo {
 		System.out.println(a/b);
 		
 	}
+	 
+	public void info ( String name, int age) {
+		System.out.println(name);
+		System.out.println(age);
+	}
 
 	/**
 		TEst
