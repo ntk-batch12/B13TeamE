@@ -28,6 +28,9 @@ public class ADemo {
 	double height = 6.1; 
 	String firstName = ""; 
 	
+	String lastName="";
+	String country="";
+	
 
 	/**
 		TEst
