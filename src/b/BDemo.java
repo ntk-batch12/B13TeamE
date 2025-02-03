@@ -28,4 +28,10 @@ public class BDemo {
 		System.out.println(name);
 		System.out.println(age);
 	}
+	
+	public void getinfo (String lastName, int age) {
+		System.out.println(lastName);
+		System.out.println(age);
+	}
+	
 }
