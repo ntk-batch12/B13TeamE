@@ -17,6 +17,10 @@ public class ADemo {
 	public void divid(int a , int b) {
 		System.out.println(a/b);
 		
+		int c = 20;
+		int d = 20;
+		System.out.println(c+d);
+		
 	}
 	 
 	public void info ( String name, int age) {
