@@ -23,6 +23,11 @@ public class ADemo {
 		System.out.println(name);
 		System.out.println(age);
 	}
+	
+	int age = 20; 
+	double height = 6.1; 
+	String firstName = ""; 
+	
 
 	/**
 		TEst
