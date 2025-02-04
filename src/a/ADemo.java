@@ -31,6 +31,13 @@ public class ADemo {
 		System.out.println(age);
 	}
 
+	public void TrueorFalse( boolean a , boolean b) {
+		
+		System.out.println(a);
+		System.out.println(b);
+		
+		
+	}
 	
 
 	/**
