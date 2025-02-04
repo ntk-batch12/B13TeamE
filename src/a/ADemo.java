@@ -5,7 +5,7 @@ public class ADemo {
 	public static void main(String[] args) {
 		System.out.println("ADemo: TeamE");
 
-		Ademo s1 = new Ademo (); 
+		ADemo s1 = new ADemo (); 
 		s1.info("Zaid", 35); 
 	}
 
@@ -24,7 +24,11 @@ public class ADemo {
 	 
 	public void info ( String name, int age) {
 		System.out.println(name);
-		System.out.println(age);
+		System.out.println(age);}
+	
+	
+	public void info1 (String lastName) {
+		System.out.println("Morillo");
 	}
 
 	
