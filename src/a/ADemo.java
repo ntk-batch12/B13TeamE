@@ -47,12 +47,29 @@ public class ADemo {
 		System.out.println(lastName);
 		System.out.println(id);
 		
+		// Zaid CODE -----------------------------------------------------------------------------
+		ADemo b1 = new ADemo(); 
 		
+		int s1 = b1.sumDouble (1, 2); //→ 3
+		int s2 = b1.sumDouble (3, 2); //→ 5
+		int s3 = b1.sumDouble (2, 2); //→ 8
+			
+		System.out.println(s1);
+		System.out.println(s2);
+		System.out.println(s3);
 	}
-	public void String (String nameEmployee, int id) {
-	   System.out.println(nameEmployee);
-	   System.out.println(id);
 	
+	public int sumDouble (int a, int b) { 
+		int result = 0; 
+		int total = a + b; 
+		if (a == b) { 
+			result = total *2; 
+		} else { 
+			result = total; 
+		}
+		
+		return result; 
+	}
 	
 	}
 	/**
@@ -60,4 +77,4 @@ public class ADemo {
   TEST 
   TEST
 	*/
-}
+
