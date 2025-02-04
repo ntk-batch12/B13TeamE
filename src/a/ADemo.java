@@ -35,6 +35,13 @@ public class ADemo {
 		System.out.println("Morillo");
 	}
 
+	public void TrueorFalse( boolean a , boolean b) {
+		
+		System.out.println(a);
+		System.out.println(b);
+		
+		
+	}
 	
 	public void getinfo(String lastName, int id) {
 		System.out.println(lastName);
