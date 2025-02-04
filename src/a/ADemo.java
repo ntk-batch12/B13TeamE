@@ -42,8 +42,12 @@ public class ADemo {
 		
 		
 	}
+	public void String (String nameEmployee, int id) {
+	   System.out.println(nameEmployee);
+	   System.out.println(id);
 	
-
+	
+	}
 	/**
 		TEst
   TEST 
