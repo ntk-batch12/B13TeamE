@@ -28,7 +28,11 @@ public class ADemo {
 	 
 	public void info ( String name, int age) {
 		System.out.println(name);
-		System.out.println(age);
+		System.out.println(age);}
+	
+	
+	public void info1 (String lastName) {
+		System.out.println("Morillo");
 	}
 
 	
