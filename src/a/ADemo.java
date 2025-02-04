@@ -5,7 +5,7 @@ public class ADemo {
 	public static void main(String[] args) {
 		System.out.println("ADemo: TeamE");
 
-		Ademo s1 = new Ademo (); 
+		ADemo s1 = new ADemo (); 
 		s1.info("Zaid", 35); 
 	}
 
@@ -24,7 +24,40 @@ public class ADemo {
 	 
 	public void info ( String name, int age) {
 		System.out.println(name);
-		System.out.println(age);
+		System.out.println(age);}
+	
+	
+	public void info1 (String lastName) {
+		System.out.println("Morillo");
+	}
+
+	
+	public void getinfo(String lastName, int id) {
+		System.out.println(lastName);
+		System.out.println(id);
+		
+		// Zaid CODE -----------------------------------------------------------------------------
+		ADemo b1 = new ADemo(); 
+		
+		int s1 = b1.sumDouble (1, 2); //→ 3
+		int s2 = b1.sumDouble (3, 2); //→ 5
+		int s3 = b1.sumDouble (2, 2); //→ 8
+			
+		System.out.println(s1);
+		System.out.println(s2);
+		System.out.println(s3);
+	}
+	
+	public int sumDouble (int a, int b) { 
+		int result = 0; 
+		int total = a + b; 
+		if (a == b) { 
+			result = total *2; 
+		} else { 
+			result = total; 
+		}
+		
+		return result; 
 	}
 
 	
