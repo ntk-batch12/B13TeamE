@@ -5,7 +5,7 @@ public class ADemo {
 	public static void main(String[] args) {
 		System.out.println("ADemo: TeamE");
 
-		Ademo s1 = new Ademo (); 
+		ADemo s1 = new ADemo (); 
 		s1.info("Zaid", 35); 
 	}
 
@@ -19,6 +19,10 @@ public class ADemo {
 	
 	public void divid(int a , int b) {
 		System.out.println(a/b);
+		
+		int c = 20;
+		int d = 20;
+		System.out.println(c+d);
 		
 	}
 	 
