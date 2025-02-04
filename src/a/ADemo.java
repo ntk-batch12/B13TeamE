@@ -32,6 +32,13 @@ public class ADemo {
 	}
 
 	
+	public void getinfo(String lastName, int id) {
+		System.out.println(lastName);
+		System.out.println(id);
+		
+		
+	}
+	
 
 	/**
 		TEst
