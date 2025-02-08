@@ -31,4 +31,9 @@ public class BDemo {
 		System.out.println( a + b);
 
 }
+public static void add(String name , int age , boolean isCitizen){
+		System.out.println( name);
+	System.out.println( age);
+	System.out.println( isCitizen);
+	
 }
