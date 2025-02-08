@@ -17,16 +17,14 @@ public class BDemo {
 	char score = 'C';
 	String lastName = "Stalon"; 
 
+
 	int temperature = 90; 
 	String tempretarure = "90F"; 
 	char tempSymbol = 'F'; 
 	boolean isTooHot = true; 
 	
-	int temp = 90; 
-	int temp2 = 80; 
-	int temp3 = 70; 
-	int temp4 = 60; 
-	int temp5 = 45; 
+	boolean isCitizen = true; 
 
 }
+
 
