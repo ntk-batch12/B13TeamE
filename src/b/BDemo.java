@@ -9,6 +9,12 @@ public class BDemo {
 		int a  = 25 ;
 		int b =20;
 		System.out.println(a + b);
+
+
+
+
 	}
+	public void add(int a , int b){
+		System.out.println( a + b)
 
 }
