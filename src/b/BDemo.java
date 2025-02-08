@@ -6,4 +6,7 @@ public class BDemo {
 		System.out.println("BDemo: TeamB");
 	}
 
+	int age = 35; 
+	String firstName= "Jack"; 
+	char gender = 'M'; 
 }
