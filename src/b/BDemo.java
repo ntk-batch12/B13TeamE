@@ -9,4 +9,9 @@ public class BDemo {
 	int age = 35; 
 	String firstName= "Jack"; 
 	char gender = 'M'; 
+	
+	String city = "Tampa"; 
+	String Country = "USA"; 
+	
 }
+
