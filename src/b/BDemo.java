@@ -18,5 +18,5 @@ public static void subtract ( int a, int b) {
 }
 	public static void multiply (int a, int b) {
 		System.out.println( a * b) ;
-		
+	}	
 }
