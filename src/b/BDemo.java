@@ -13,6 +13,8 @@ public class BDemo {
 		System.out.println(age);
 		
 	}
-	
+ 	int x= 10;
+	int y = 30;
+	System.out.println(x + y);
 	
 }
