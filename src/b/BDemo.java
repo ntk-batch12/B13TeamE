@@ -17,6 +17,10 @@ public class BDemo {
 	char score = 'C';
 	String lastName = "Stalon"; 
 
+	int temperature = 90; 
+	String tempretarure = "90F"; 
+	char tempSymbol = 'F'; 
+	
 	
 }
 
