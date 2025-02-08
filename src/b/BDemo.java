@@ -9,4 +9,8 @@ public class BDemo {
 	int age = 35; 
 	String firstName= "Jack"; 
 	char gender = 'M'; 
+
+	char score = 'C'
+	String lastName = "Stalon"; 
+	
 }
