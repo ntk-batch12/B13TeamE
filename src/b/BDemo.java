@@ -12,7 +12,16 @@ public class BDemo {
 		System.out.println(lastName);
 		System.out.println(age);
 		
+		
+		int x= 10;
+		int y = 30;
+		System.out.println(x + y);
+		
 	}
+
 	
 	// new commit
+
+	
+
 }
