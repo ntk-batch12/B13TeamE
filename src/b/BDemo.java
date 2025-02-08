@@ -17,6 +17,8 @@ public class BDemo {
 	public void add (int c , int d) {
 		
 		System.out.println(c + d);
+		
+		System.out.println("Sabir");
 	}
 
 }
